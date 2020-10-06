@@ -8,6 +8,8 @@ After applying and using these files, your system will look like the following, 
 
 ![screenshot.png](https://gitlab.com/Novimatrem/haiku-themes-linux/-/raw/master/screenshot.png)
 
+A matching Haiku (well, BeOS) look-alike Firefox theme can be found here: BeOS style by nuthatch https://addons.mozilla.org/en-GB/firefox/addon/beos-style/
+
 
 # Disclaimer
 If you own content mirrored in this repo, and wish for the content to be removed, please contact me at TheNovimatrem@protonmail.ch specifying which files, with proof of ownership, and it will be taken care of within 18 hours.

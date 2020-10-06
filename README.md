@@ -6,7 +6,7 @@ I recommend using these files with and in the Xfce4 (Xfce) desktop, it seems to 
 # Screenshot of result
 After applying and using these files, your system will look like the following, or very close to it :)
 
-SCRHERE
+![screenshot.png](https://gitlab.com/Novimatrem/haiku-themes-linux/-/raw/master/screenshot.png)
 
 
 # Disclaimer

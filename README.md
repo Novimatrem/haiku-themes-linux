@@ -4,7 +4,7 @@ Various 'Haiku' clone/very inspired/ripped themes & assets from across the inter
 I recommend using these files with and in the Xfce4 (Xfce) desktop, it seems to fit and look the best there, in my opinion- but they of course will work with almost every DE/WM.
 
 # Screenshot of result
-After applying and using these files, your system will look like the following, or very close to it :)
+After applying and using these files, your system will look like the following, or very possibly even closer to how Haiku looks, depending on your knowledge of configuring your DE/WM, and how much you care to spend time adjusting it. 
 
 ![screenshot.png](https://gitlab.com/Novimatrem/haiku-themes-linux/-/raw/master/screenshot.png)
 

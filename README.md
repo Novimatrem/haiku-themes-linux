@@ -12,5 +12,4 @@ A matching Haiku (well, BeOS) look-alike Firefox theme can be found here: BeOS s
 
 
 # Disclaimer
-If you own content mirrored in this repo, and wish for the content to be removed, please contact me at TheNovimatrem@protonmail.ch specifying which files, with proof of ownership, and it will be taken care of within 18 hours.
-
+If you own content mirrored in this repo, and wish for the content to be removed, please contact me at TheNovimatrem@protonmail.ch specifying which files, with proof of ownership, and it will be taken care of as soon as possible.
